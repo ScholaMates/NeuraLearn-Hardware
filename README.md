@@ -2,8 +2,12 @@
 
 This repository contains the electrical schematics, PCB layouts, and 3D enclosure designs for the NeuraLearn AI Tutor.
 
-## Wiring Diagram (Breadboard)
+## Wiring Diagram
+
+### Breadboard
 ![Breadboard View](Schematic/exports/breadboard_view.jpg)
+
+### Schematic
 ![Schematic View](Schematic/exports/schematic_view.jpg)
 
 ## Schematics
