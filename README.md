@@ -5,10 +5,10 @@ This repository contains the electrical schematics, PCB layouts, and 3D enclosur
 ## Wiring Diagram
 
 ### Breadboard
-![Breadboard View](Schematic/exports/breadboard_view.jpg)
+![Breadboard View](Schematic/exports/Breadboard_view_gridded(cleaner).png)
 
 ### Schematic
-![Schematic View](Schematic/exports/schematic_view.jpg)
+![Schematic View](Schematic/exports/Schematic_view_gridded(cleaner).png)
 
 ## Schematics
 For the full electrical logic, see the [Schematic PDF](schematics/exports/schematic_view.pdf).
