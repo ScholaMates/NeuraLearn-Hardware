@@ -10,9 +10,6 @@ This repository contains the electrical schematics, PCB layouts, and 3D enclosur
 ### Schematic
 ![Schematic View](Schematic/exports/Schematic_view_gridded(cleaner).png)
 
-## Schematics
-For the full electrical logic, see the [Schematic PDF](schematics/exports/schematic_view.pdf).
-
 ## Component List
 - **MCU:** Freenove ESP32-S3 (N16R8)
 - **Audio:** MAX98357A (Amp) + INMP441 (Mic)
