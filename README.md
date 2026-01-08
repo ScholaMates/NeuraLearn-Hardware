@@ -1,6 +1,6 @@
 # NeuraLearn Hardware Design
 
-This repository contains the electrical schematics, PCB layouts, and 3D enclosure designs for the NeuraLearn AI Tutor.
+This repository contains the electrical schematics, PCB layouts, and 3D enclosure designs for the NeuraLearn product.
 
 ## Wiring Diagram
 
